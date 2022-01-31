@@ -1,0 +1,272 @@
+/* section part1 */
+.part-1{
+  background-image: url("../image/bg-masthead.jpg");
+  width: 100%;
+  height: 700px;
+  background-size: cover;
+  position: relative;
+}
+.part1{
+  background-color: #171717;
+}
+.header{
+  padding: 135px 0px 10px 370px;
+  margin: 0px 10px 0px 10px;
+  font-size: 120px;
+  color: #8C8C8C;
+}
+.para1{
+  font-size: 20px;
+  text-align: center;
+  margin: 0px 452px 0px 452px;
+  color: #999999;
+}
+.btn-info{
+  margin: 80PX 0PX 0PX 600PX;
+}
+.nav-link{
+  color: #8E8F8F !important;
+  font-size: 20px;
+
+  margin: 10px 15px 10px 15px;
+}
+.navbar-brand{
+    color: #8E8F8F !important;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.navbar a:hover{
+  color: #F9FCFC !important;
+}
+
+/*section part3  */
+.part3{
+
+  background-color: #171717;
+}
+h1{
+
+  color: #FBF7F7;
+margin: 25px 0px 25px 466px;
+position: relative;
+padding-top: 40px;
+}
+.para3{
+  color: #B0AFAF;
+  margin: 50px 350px 0px 350px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.contand-1{
+  padding: 0 0 0 0;
+    border-left: 5px solid #64a19d;
+    margin-top: 150px;
+    height: 150px;
+    margin: 303px 0px 0px -30px;
+}
+.ano3{
+  color: #3F8572;
+}
+.part3 a:hover{
+  color: #2B5B4F;
+}
+/* section part4 */
+.part4{
+  background-image: url("../image/ipad.png");
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  position: relative;
+
+}
+.part4{
+  background-color:#171717;
+}
+/* section part5 */
+.image5{
+  width: 100%;
+  margin-top: 150px;
+}
+h4{
+  padding: 0px 0px 20px 25px;
+}
+.para5{
+  padding: 0px 0px 20px 25px;
+  margin-right: 0px;
+  color: #696868;
+}
+/* section part6 */
+.image6{
+    padding-top: 50px;
+    width: 100%;
+}
+.part6div{
+  background-color: #1E1E1E;
+  margin: 50px 0px 0px -30px;
+  padding: 0px 20px 20px 50px;
+
+}
+
+.para6{
+  color: #8D8C8C;
+  padding: 0px 20px 125px 0px;
+
+}
+.head6{
+  color: #F7F5F5;
+  padding: 116px 29px 0px 300px;
+  font-size: 30px;
+}
+.head6-1{
+  color: #F7F5F5;
+  padding: 116px 29px 0px 0px;
+  font-size: 30px;
+}
+.para6-1{
+  color: #8D8C8C;
+  padding: 0px 20px 126px 20px;
+  text-align: right;
+}
+.part6div1::after{
+  content: "";
+position: absolute;
+top: 720px;
+right: 0%;
+transform: translateX(-50%);
+width: 130px;
+height: 3px;
+background: #548b87;
+}
+.part6div1{
+  background-color: #1E1E1E;
+  margin: 0px 0px 0px 0px;
+  padding: 0px 20px 17px 50px;
+}
+.part6div ::after{
+  content: "";
+position: absolute;
+top: 319px;
+right: 59%;
+transform: translateX(-50%);
+width: 130px;
+height: 3px;
+background: #548b87;
+}
+.image6-1{
+  width: 114%;
+padding: 20px 25px 17px 20px;
+margin: -20px -16px 2px -50px;
+}
+.image7{
+  width: 100%;
+  height: 500px;
+}
+/* section part7 */
+.part7{
+  background-image: url("../image/bg-signup.jpg");
+  width: 100%;
+  height: 500px;
+  background-size: cover;
+  position:absolute;
+  margin-top: 140px;
+}
+.send7{
+  text-align: center;
+  color: #F5F1F1;
+  font-size: 40px;
+  padding-top: 100px;
+}
+h3{
+  margin-top: 10px;
+}
+.form-controlo{
+  width: 80%;
+  margin-left: 155px;
+  margin-top: 50PX;
+  height: 40px;
+}
+.butt{
+  background-color: #4D927F;
+  margin: 48px 215px 10px -10px;
+  padding: 8px 0px 10px 0px;
+  text-align: center;
+}
+.anoo7{
+  color: #F5F9F8;
+}
+.part7 a:hover{
+  color: #F5F9F8;
+  text-align: center;
+  text-decoration: none;
+
+}
+/* section part8 */
+.part8{
+  margin-top: 640px;
+  background-color: #171717;
+  text-align: center;
+padding-bottom: 70px;
+}
+.card{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 10px 10px 10px;
+text-align: center;
+width: 30%;
+
+
+
+
+
+}
+ h5::after{
+  content: "";
+position: absolute;
+top: 120px;
+left: 50%;
+transform: translateX(-50%);
+width: 50px;
+height: 3px;
+background: #548b87;
+}
+.fa{
+  color: #4D927F;
+  padding: 30px 10px 10px 10px;
+}
+.para8{
+  color: #AFAFAF;
+  padding: 30px 10px 10px 30px;
+}
+.part8 a{
+  color: #AFAFAF;
+}
+.part8 a:hover{
+  color: #AFAFAF;
+}
+.box{
+
+
+border-radius: 5px;
+border-bottom: 0.25rem solid #64a19d;
+
+}
+/* section part9 */
+.part9{
+  text-align: center;
+  color: #A1A2A2;
+  background-color: #171717;
+  padding-bottom: 60px;
+}
+.fab{
+height: 40px;
+  width:40px;
+  background-color: #313131;
+  border-radius: 100%;
+  padding-top: 12px;
+}
+.part9 i:hover{
+  color: #C5C9C8;
+}
+.para9{
+  color: #A1A2A2;
+  padding-top: 30px;
+}
